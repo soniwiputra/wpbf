@@ -18,7 +18,7 @@ def loadLst(fileName, lstName):
 if len(sys.argv) <= 1:
 
     print ''
-    print 'Syntax: python2 wpbf.py [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
+    print 'Syntax: python WP-crack [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
     print ''
     print 'Options:'
     print '-h URL'
@@ -34,8 +34,8 @@ if len(sys.argv) <= 1:
     print 'Examples: python WP-crack.py -h http://test.com/wp-login.php -u admin -P password.txt'
     sys.exit()
 
-print 'Author : MR.G4NS'
-print 'Mail    : mrgans1230@gmail.com'
+print 'R!D$'
+print 'Mail   : gansmrapeaje@gmail.com'
 
 #
 #define variables
